@@ -47,7 +47,3 @@ Frase traducida: Este day es hermoso, depende mucho del eye que lo ve.
 Contribución
 
 Si deseas contribuir a este proyecto, puedes hacer un fork y enviar un pull request con tus mejoras.
-
-Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT - ver el archivo LICENSE para más detalles.
